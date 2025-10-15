@@ -3,15 +3,26 @@
 ### Data Engineer / Analytics & Salesforce Architect Expert  
 📍 Jakarta, Indonesia | 📧 adnan.zahry3@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/adnandmth) | 💻 [GitHub](https://github.com/adnandmth)
 
+---
+
+## 🧠 About Me
+I’m a **Business Intelligence & Data Engineering leader** with **13+ years of cross-functional experience**, including **7+ years specializing in Data Engineering and BI**.  
+
+I bridge business strategy with data infrastructure — helping organizations **achieve near real-time analytics**, **cut costs**, and **drive customer engagement** through scalable and modern data architectures.
+
+Currently leading **BI & Salesforce architecture at Lamudi**, where I combine engineering, analytics, and architecture to deliver measurable business impact.
+
+---
 
 ## 🔧 Public Projects
 
 | Project | Short Description | Stack |
 |----------|-------------------|--------|
-| [Self-Service Analytics Chatbot](https://github.com/adnandmth/self-service-analytics) | Chatbot integrated with analytics platform for real-time answers to business queries. | Python · FastAPI · PostgreSQL · NLP · Superset API |
-| [Salesforce CI/CD Automation](https://github.com/adnandmth/salesforce_cicd) | End-to-end CI/CD automation for Salesforce metadata, Flows, and Apex. | Salesforce DX · GitHub Actions · Docker · Python |
-| [Near Real-Time Analytics with PySpark](https://github.com/adnandmth/near-realtime-analytics-pipeline_with_pyspark) | Streaming data pipeline from Kafka → Spark → PostgreSQL → Superset. | Kafka · PySpark · PostgreSQL · Airflow · Superset |
+| [Self-Service Analytics Chatbot](https://github.com/adnandmth/self-service-analytics) | Chatbot integrated with analytics platform for real-time answers to business queries. | Python · FastAPI · PostgreSQL · OpenAI · Nginx · JavaScript · HTML  |
+| [Salesforce CI/CD Automation](https://github.com/adnandmth/salesforce_cicd) | End-to-end CI/CD automation for Salesforce metadata, Flows, and Apex. | Salesforce DX · Bash |
+| [Near Real-Time Analytics with PySpark](https://github.com/adnandmth/near-realtime-analytics-pipeline_with_pyspark) | Streaming data pipeline from Kafka → Spark → PostgreSQL. | Python · Kafka · PySpark · PostgreSQL |
 
+---
 
 ## ⚙️ Core Skills & Technologies
 
@@ -37,6 +48,7 @@
 - On-premise Architectures  
 - Linux, Bash Scripting
 
+---
 
 ### 🧰 Tech Stack Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
