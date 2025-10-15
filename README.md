@@ -4,6 +4,15 @@
 📍 Jakarta, Indonesia | 📧 adnan.zahry3@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/adnandmth) | 💻 [GitHub](https://github.com/adnandmth)
 
 
+## 🔧 Public Projects
+
+| Project | Short Description | Stack |
+|----------|-------------------|--------|
+| [Self-Service Analytics Chatbot](https://github.com/adnandmth/self-service-analytics) | Chatbot integrated with analytics platform for real-time answers to business queries. | Python · FastAPI · PostgreSQL · NLP · Superset API |
+| [Salesforce CI/CD Automation](https://github.com/adnandmth/salesforce_cicd) | End-to-end CI/CD automation for Salesforce metadata, Flows, and Apex. | Salesforce DX · GitHub Actions · Docker · Python |
+| [Near Real-Time Analytics with PySpark](https://github.com/adnandmth/near-realtime-analytics-pipeline_with_pyspark) | Streaming data pipeline from Kafka → Spark → PostgreSQL → Superset. | Kafka · PySpark · PostgreSQL · Airflow · Superset |
+
+
 ## ⚙️ Core Skills & Technologies
 
 **🧩 Salesforce**
@@ -27,14 +36,6 @@
 **🧱 Infrastructure & Automation**
 - On-premise Architectures  
 - Linux, Bash Scripting
-
-## 🔧 Public Projects
-
-| Project | Short Description | Stack |
-|----------|-------------------|--------|
-| [🧩 Self-Service Analytics Chatbot](https://github.com/adnandmth/self-service-analytics) | Chatbot integrated with analytics platform for real-time answers to business queries. | Python · FastAPI · PostgreSQL · NLP · Superset API |
-| [⚡ Salesforce CI/CD Automation](https://github.com/adnandmth/salesforce_cicd) | End-to-end CI/CD automation for Salesforce metadata, Flows, and Apex. | Salesforce DX · GitHub Actions · Docker · Python |
-| [🧠 Near Real-Time Analytics with PySpark](https://github.com/adnandmth/near-realtime-analytics-pipeline_with_pyspark) | Streaming data pipeline from Kafka → Spark → PostgreSQL → Superset. | Kafka · PySpark · PostgreSQL · Airflow · Superset |
 
 
 ### 🧰 Tech Stack Badges
