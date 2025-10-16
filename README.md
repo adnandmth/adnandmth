@@ -21,8 +21,7 @@ Currently leading **BI & Salesforce architecture at Lamudi**, where I combine en
 | [Self-Service Analytics Chatbot](https://github.com/adnandmth/self-service-analytics) | Chatbot integrated with analytics platform for real-time answers to business queries. | Python · FastAPI · PostgreSQL · OpenAI · Nginx · JavaScript · HTML  |
 | [Salesforce CI/CD Automation](https://github.com/adnandmth/salesforce_cicd) | End-to-end CI/CD automation for Salesforce metadata, Flows, and Apex. | Salesforce DX · Bash |
 | [Near Real-Time Analytics with PySpark](https://github.com/adnandmth/near-realtime-analytics-pipeline_with_pyspark) | Streaming data pipeline from Kafka → Spark → PostgreSQL. | Python · Kafka · PySpark · PostgreSQL |
-| [Airflow Pydantic AI Log Analyzer](https://github.com/adnandmth/airflow-pydanticai-log-analyzer) | An automated AI assistant that analyzes DAG logs and sends actionable insights to Slack.
-. | Python · Airflow · FastAPI · PydanticAI |
+| [Airflow Pydantic AI Log Analyzer](https://github.com/adnandmth/airflow-pydanticai-log-analyzer) | An automated AI assistant that analyzes DAG logs and sends actionable insights to Slack. | Python · Airflow · FastAPI · PydanticAI |
 
 ---
 
